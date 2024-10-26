@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 100,
+      "name": "Pixel18Pro",
+      "category": "SmartPhone",
+      "brand": "Google"
+    },
+    {
+      "id": 101,
+      "name": "iPhone 12",
+      "category": "SmartPhone",
+      "brand": "Apple"
+    },
+    {
+      "id": 102,
+      "name": "Galaxy S21",
+      "category": "SmartPhone",
+      "brand": "Samsung"
+    },
+    {
+      "id": 103,
+      "name": "MacBook Pro",
+      "category": "Laptop",
+      "brand": "Apple"
+    }
+  ]
+}
