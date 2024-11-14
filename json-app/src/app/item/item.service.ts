@@ -22,7 +22,7 @@ export class ItemService {
     return this.httpClient.put(`http://localhost:3000/items/${data.id}`,data);
   }
   delete(id:number){
-    return this.httpClient.delete(`http://localhost:3000/items/${id}`);
+    return this.httpClient.delete<Item>(`http://localhost:3000/items/${id}`);
   }
 
 }

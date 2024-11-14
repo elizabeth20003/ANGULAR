@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "id": 100,
-      "name": "Pixel18Pro",
-      "category": "SmartPhone",
-      "brand": "Google"
-    },
-    {
       "id": 101,
       "name": "iPhone 12",
       "category": "SmartPhone",
